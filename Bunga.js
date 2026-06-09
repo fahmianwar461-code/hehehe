@@ -59,6 +59,7 @@ yesBtn.addEventListener("click", () => {
     </div>
         <div style="text-align:center">
 
+        <h1> 🌹 Makasih yakkk🌹</h1>
         <h1> 🌹😅Nih buatmu yang baik dan lucuuu 😅🌹</h1>   
         <h1>😁 Jan lupa belajar besok ujian, semangatttt 😁</h1>
 
